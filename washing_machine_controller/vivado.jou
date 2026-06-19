@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Fri Jun 19 05:44:38 2026
+# Process ID         : 21868
+# Current directory  : D:/washing_machine_controller
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent22544 D:\washing_machine_controller\washing_machine.xpr
+# Log file           : D:/washing_machine_controller/vivado.log
+# Journal file       : D:/washing_machine_controller\vivado.jou
+# Running On         : Gowtham
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 5 5600H with Radeon Graphics         
+# CPU Frequency      : 3294 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16473 MB
+# Swap memory        : 3489 MB
+# Total Virtual      : 19962 MB
+# Available Virtual  : 4479 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/washing_machine_controller/washing_machine.xpr
+update_compile_order -fileset sources_1
