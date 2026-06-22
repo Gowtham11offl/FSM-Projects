@@ -2,11 +2,6 @@
 
 
 
-`timescale 1ns/1ps
-
-
-
-
 module washing_machine_controller #(
     parameter DRAIN_TICKS = 2,
     parameter DONE_TICKS  = 2
